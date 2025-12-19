@@ -1,6 +1,6 @@
 # Ben watermans Programming Portfolio | 2026
 
-####### Term 1 projects
+## Term 1 projects
 
 ### Calculator (2025)
 
