@@ -28,7 +28,7 @@ Calculator
 
 Burger Time
 
-![BurgerTime]()
+![BurgerTime](https://github.com/9657232/Portfolio/blob/main/images/Burger%20Time.png?raw=true)
 
 *[SourceCode](https://github.com/9657232/Portfolio/tree/main/src/BurgerTime)
 
