@@ -24,7 +24,7 @@ Calculator
 
 ## - Ben Waterman
 
-## - Mars Gorham (Bi9 pepe)
+## - Mars Gorham
 
 Burger Time
 
